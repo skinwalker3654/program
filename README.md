@@ -33,4 +33,5 @@ requirements: `gcc compiler`, `gnu make`
    make
    make run
    ```
+---
 **Thank you**
