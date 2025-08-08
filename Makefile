@@ -1,6 +1,6 @@
 CC = gcc
 
-SRC = main.c program.c
+SRC = src/main.c src/program.c
 TAR = main
 
 $(TAR): $(SRC)
