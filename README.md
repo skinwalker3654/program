@@ -19,4 +19,18 @@ program/
    |-- Makefile
    |-- LICENSE
 ```
+---
+
+## Buid instructions
+requirements: `gcc compiler`, `gnu make`
+1. clone the reposetory
+   ```bash
+   git clone git@github.com:skinwalker3654/program  #ssh key required
+   cd progrm
+   ```
+2. compile and run
+   ```bash
+   make
+   make run
+   ```
 **Thank you**
